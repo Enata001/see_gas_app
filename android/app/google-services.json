@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "877293697792",
+    "project_id": "see-gas",
+    "storage_bucket": "see-gas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877293697792:android:bfa877c352e5aa5f6a51e5",
+        "android_client_info": {
+          "package_name": "com.example.see_gas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877293697792-9vjd9er3mv6tl3j4eugrc6hkipk0k5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnoq9DzW7MWVhF7vUW9WxRvIL2aEF_40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877293697792-9vjd9er3mv6tl3j4eugrc6hkipk0k5td.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877293697792-js2t18k5nhr39dujv86fa53u2ihgguil.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seeGasApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
